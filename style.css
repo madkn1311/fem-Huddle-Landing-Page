@@ -10,12 +10,15 @@ body{
     background-repeat: no-repeat;
     background-color: hsl(257, 40%, 49%);
     background-size: cover;
+}
+
+.container{
     min-height: 100vh;
 }
 
 .header-logo{
     max-width: 12rem;
-    margin-left: 8rem;
+    margin-left: 4rem;
 }
 
 .content{
@@ -73,7 +76,7 @@ body{
         display: flex;
         flex-direction: column;
         text-align: center;
-        margin-top: 0.6rem;
+        margin-top: 1.5rem;
     }
     .content-para{
         font-size: 1rem;
