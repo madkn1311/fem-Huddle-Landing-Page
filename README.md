@@ -35,6 +35,8 @@ Users should be able to:
 - Bootstrap
 - Flexbox
 - Mobile-first workflow
+- Fontawesome Icons
+
 
 ## Author
 
